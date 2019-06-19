@@ -1100,6 +1100,25 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Delphi / Pascal
 
 * [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/) - M. Cantù
+* [Object Pascal Handbook](http://forms.embarcadero.com/sDownloadMarcoseBook) - M. Cantù
+* [Pascal Programming](https://en.wikibooks.org/wiki/Pascal_Programming) - Wiki Books
+* [Delphi GUI Programming with FireMonkey](https://www.packtpub.com/application-development/delphi-gui-programming-firemonkey) - Andrea Magni
+* [Delphi Programming Projects](https://www.packtpub.com/application-development/delphi-programming-projects) - William Duarte
+* [Delphi Cookbook - Third Edition](https://www.packtpub.com/application-development/delphi-cookbook-third-edition) - Daniele Teti, Daniele Spinetti
+* [Delphi Basics](http://www.delphibasics.co.uk/) - Neil Moffatt
+* [Delphi Feeds](http://www.delphifeeds.com/) - Gurock Software GmbH
+* [Delphi For Fun](http://www.delphiforfun.org/) - Gary Darby
+* [Dr.Bob's Delphi Clinic](http://www.drbob42.com/delphi/) - Bob Swart (aka Dr.Bob)
+* [Delphi Programming](https://www.thoughtco.com/introduction-to-the-delphi-language-1057646) - Žarko Gajić 
+* [Coding in Delphi](https://leanpub.com/codingindelphi) - Nick Hodges
+* [Delphi Programming Helper](http://www.shaunroselt.com/delphi-programming-helper/) - Shaun Roselt
+* [Essential Delphi](http://www.marcocantu.com/edelphi/default.htm) - M. Cantù
+* [Delphi XE Development Essentials](http://www.lulu.com/shop/bob-swart/delphi-xe-development-essentials/paperback/product-13211362.html) - Bob Swart
+* [Delphi XE Handbook](https://www.amazon.com/exec/obidos/ASIN/1463600674/marcocantusde-20) - M. Cantù
+* [Delphi in Depth: ClientDataSets](https://www.amazon.com/Delphi-Depth-Cary-Jensen-Ph-D/dp/1461008581/ref=pd_sim_b_1) - Cary Jensen Ph.D.
+* [Hands-On Design Patterns with Delphi](https://www.packtpub.com/application-development/hands-design-patterns-delphi) - Primož Gabrijelčič
+* [Delphi High Performance](https://www.packtpub.com/application-development/delphi-high-performance) - Primož Gabrijelčič
+* [Expert Delphi](https://www.packtpub.com/application-development/expert-delphi) - Paweł Głowacki
 
 
 ### DTrace
